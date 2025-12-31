@@ -10,9 +10,6 @@ public class CameraOrbit : MonoBehaviour
 
     void Awake()
     {
-        if (orbital == null)
-            return;
-
             orbital = cam.GetCinemachineComponent(CinemachineCore.Stage.Body) as CinemachineOrbitalFollow;
     }
 

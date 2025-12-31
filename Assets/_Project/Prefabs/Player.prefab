@@ -89,7 +89,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 80
+  m_Constraints: 112
   m_CollisionDetection: 1
 --- !u!114 &8812697151092458337
 MonoBehaviour:
@@ -106,11 +106,11 @@ MonoBehaviour:
   animator: {fileID: 4670996915504856878}
   groundCheck: {fileID: 6213978303428310217}
   cameraTransform: {fileID: 0}
-  health: {fileID: 0}
+  health: {fileID: 1472570015943621319}
   movementSpeed: 5
   jumpForce: 10
   rotationSpeed: 5
-  stunDuration: 0.5
+  stunDuration: 0.35
   teleportOffset: 3
 --- !u!114 &6213978303428310217
 MonoBehaviour:
