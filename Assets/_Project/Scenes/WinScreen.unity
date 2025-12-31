@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 15549688}
   - component: {fileID: 15549687}
   - component: {fileID: 15549692}
+  - component: {fileID: 15549693}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -242,6 +243,18 @@ MonoBehaviour:
   sceneToLoad:
     sceneName: MainMenu
     sceneAsset: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
+--- !u!114 &15549693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 15549686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afec64538f8f478468264761ac634e1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &23264241 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7914153452387537035, guid: 3c359e8da5f348c4dabc417202b29f58, type: 3}
