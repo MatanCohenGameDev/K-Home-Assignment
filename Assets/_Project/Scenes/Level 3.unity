@@ -5688,8 +5688,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad:
-    sceneName: MainMenu
-    sceneAsset: {fileID: 102900000, guid: 99c9720ab356a0642a771bea13969a05, type: 3}
+    sceneName: WinScreen
+    sceneAsset: {fileID: 102900000, guid: 797f570a4668edc419fda0bac3a6d49f, type: 3}
 --- !u!95 &1946549388 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 8848217514849554851, guid: 0e09887a4dd23cc4f81dbcac951478d1, type: 3}
